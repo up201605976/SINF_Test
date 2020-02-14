@@ -6,9 +6,9 @@ This readme.md file was edited in the readme-branch and later merged into master
 Here is a [link](https://help.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax) with the GitHub syntax to create a stylish README.md file.
 
 ## Here is a list of suggeted tasks to complete in this first LP class:
-- [x] Create and swith to a new branch.
-- [x] Edit your README.md file.
-- [x] Commit your README.md changes.
+- [x] Create and swith to a new branch. <--
+- [x] Edit your README.md file. <--
+- [x] Commit your README.md changes. <--
 - [x] Open a pull request to merge the modified REAME.md in the master branch.
 - [x] Create a label for each sprint backlog.
 - [x] Create two issues, label them as first sprint backlog tasks, assign them to team members.
